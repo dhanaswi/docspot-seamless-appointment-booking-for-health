@@ -1,5 +1,5 @@
-# Doctor-appointmnet-system-mern-project
-Mern Stack Doctor appointment system project code
+# docspot-seamless-appointment-booking-for-health-mern-project
+Mern Stack docspot-seamless-appointment-booking-for-health project resources
 
 ##Documentation folder link
 [click here for documentation link](https://drive.google.com/drive/folders/1GKDwdhT9c_L8eWx51HIgcClY8D8BpAwC?usp=drive_link)
