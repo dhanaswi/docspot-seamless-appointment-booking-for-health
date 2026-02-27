@@ -1,4 +1,4 @@
-# docspot-seamless-appointment-booking-for-health-mern-project
+# Docspot-seamless-appointment-booking-for-health-mern-project
 Mern Stack docspot-seamless-appointment-booking-for-health project resources
 
 ##Documentation folder link
